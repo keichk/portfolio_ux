@@ -152,9 +152,9 @@ section{
     flex-wrap: wrap;
     flex-direction: column;
 } */
-.Accueil_image{
+/* .Accueil_image{
     justify-self: center;
-}
+} */
 .Accueil_image img{
     position: absolute;
     right: 0;
