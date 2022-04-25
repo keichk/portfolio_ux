@@ -126,8 +126,8 @@ input{
 }
 
 .nav_logo img{
-    min-width: 20%;
-    height: 50px;
+    min-width: 10%;
+    height: 40px;
 }
 
 section{
@@ -504,6 +504,10 @@ footer img{
     .nav_menu{
         display: flex;
         padding-top: 0;
+    }
+     .nav_logo img{
+        min-width: 20%;
+        height: 50px;
     }
 
     .nav_item{
